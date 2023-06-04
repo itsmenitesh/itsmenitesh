@@ -17,6 +17,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/itsmenitesh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="itsmenitesh" height="30" width="40" /></a>
 <a href="https://github.com/nitesh1710" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="nitesh1710" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/niteshchoudhary4" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="niteshchoudhary4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/niteshchoudhary4" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="niteshchoudhary4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
