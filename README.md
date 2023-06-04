@@ -9,18 +9,18 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nitesh1710](https://github.com/nitesh1710)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/itsmenitesh)
 
 - 💬 Ask me about **Java & Spring Boot**
 
 - 📫 How to reach me **niteshchoudhary1217@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VqMW3mLYD8qnmZ_cdFra16rohZ2d5r4E/view?usp=sharing](https://drive.google.com/file/d/1VqMW3mLYD8qnmZ_cdFra16rohZ2d5r4E/view?usp=sharing)
+- 📄 Know about my experiences [MyResume](https://docs.google.com/document/d/1hEaQ-ATGzWM6OPUyJUoEC1QICvwbS0O0/edit?usp=sharing&ouid=101215792589538244850&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/itsmenitesh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="itsmenitesh" height="30" width="40" /></a>
-<a href="https://github.com/nitesh1710" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="nitesh1710" height="30" width="40" /></a>
+<a href="https://github.com/itsmenitesh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="nitesh1710" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/niteshchoudhary4" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="niteshchoudhary4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/niteshchoudhary4" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="niteshchoudhary4" height="30" width="40" /></a>
 </p>
@@ -36,8 +36,8 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh1710&show_icons=true&locale=en&layout=compact" alt="nitesh1710" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmenitesh&show_icons=true&locale=en&layout=compact" alt="itsmenitesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh1710&show_icons=true&locale=en" alt="nitesh1710" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh1710&" alt="nitesh1710" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmenitesh&show_icons=true&locale=en" alt="itsmenitesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmenitesh&" alt="itsmenitesh" /></p>
 
