@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh1710" alt="nitesh1710" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmenitesh" alt="itsmenitesh" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, and ReactJs**
 
