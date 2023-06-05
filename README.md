@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Choudhary</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p>Hi, I'm Nitesh Choudhary, a Java backend developer who loves technology and programming. My undergraduate and graduate studies in computer applications are complete. I've developed skills in creating API projects along the way, and you can find those on my GitHub repository. I am constantly learning new things and honing my programming and software development skills as a tech enthusiast. I like taking on challenging projects, and I work hard to create scalable and reliable applications. Please feel free to look around my repositories and get in touch if you have any questions about Java, backend development, or technology in general.
 </p>
