@@ -36,8 +36,5 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmenitesh&show_icons=true&locale=en&layout=compact" alt="itsmenitesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmenitesh&show_icons=true&locale=en" alt="itsmenitesh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmenitesh&" alt="itsmenitesh" /></p>
 
