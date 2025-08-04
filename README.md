@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmenitesh" alt="itsmenitesh" /></a> </p>
 
-- 🌱 I’m currently learning **FullStack**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/itsmenitesh)
-
 - 💬 Ask me about **Java & Spring Boot**
 
 - 📫 How to reach me **niteshchoudhary1217@gmail.com**
