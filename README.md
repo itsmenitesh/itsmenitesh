@@ -4,9 +4,6 @@
 <p>Hi, I'm Nitesh Choudhary, a Java backend developer who loves technology and programming. My undergraduate and graduate studies in computer applications are complete. I've developed skills in creating API projects along the way, and you can find those on my GitHub repository. I am constantly learning new things and honing my programming and software development skills as a tech enthusiast. I like taking on challenging projects, and I work hard to create scalable and reliable applications. Please feel free to look around my repositories and get in touch if you have any questions about Java, backend development, or technology in general.
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmenitesh" alt="itsmenitesh" /></a> </p>
-
 - 💬 Ask me about **Java & Spring Boot**
 
 - 📫 How to reach me **niteshchoudhary1217@gmail.com**
